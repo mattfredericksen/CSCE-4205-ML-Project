@@ -8,7 +8,7 @@ Sentiment Distribution over the 5-Star Ratings Scale
 
 - Matthew Fredericksen: [MatthewFredericksen@my.unt.edu](mailto:MatthewFredericksen@my.unt.edu)
 - Conner Lynch: ConnerLynch@my.unt.edu
-- Adil Afroze: AdilAfroze@gmail.com
+- ~~Adil Afroze: AdilAfroze@gmail.com~~
 
 **Workflow:**
 
