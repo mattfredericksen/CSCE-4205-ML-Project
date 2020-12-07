@@ -1,5 +1,13 @@
 # CSCE-4205-ML-Project
 
+Main solution is in [`mnb.ipynb`](mnb.ipynb).
+
+## Project Report
+
+[Google doc](https://docs.google.com/document/d/1yk0CV6yxFNDZHfEq3OsAE1frZSlGmX-2C9OQvusIOQ0/).
+
+## Project Proposal
+
 **Project Name:**
 
 Sentiment Distribution over the 5-Star Ratings Scale
